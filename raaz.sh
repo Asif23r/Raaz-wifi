@@ -40,3 +40,4 @@ echo -e "${GREEN}[+] Stopping Monitor Mode...${NC}"
 airmon-ng stop wlan0mon
 
 echo -e "${GREEN}[+] Done. Thank you for using LazyWiFi.${NC}"
+mv ~/lazywifi.sh Raaz-wifi/
